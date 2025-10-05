@@ -3,16 +3,16 @@
 #### [`Stable`](https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip) Ubuntu Setup
 
 ``` sh
-wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x setup-root.sh && ./setup-root.sh
+wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup-root.sh && */setup-root.sh
 ```
 
 #### [`Latest`](https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip) Ubuntu Setup
 
 ``` sh
-wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x setup-root.sh && ./setup-root.sh
+wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup-root.sh && */setup-root.sh
 ```
 
-# [Operate](https://github.com/Lanwoah/Mack)
+# [Mack](https://github.com/Lanwoah/Mack)
 
 | Version   | Date       | Title                   |
 | :-:       | :-:        | -                       |
