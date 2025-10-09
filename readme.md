@@ -1,15 +1,27 @@
 # [Operate](https://github.com/Lanwoah/Operate)
 
-#### [`Stable`](https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip) Ubuntu Setup
+<!-- ### [`Stable`](https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip) Ubuntu Package
 
+‎ ‎ ‎ `Setup`
 ``` sh
-wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup-root.sh && */setup-root.sh
+wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup.sh && */setup.sh
+```
+‎ ‎ ‎ `Remove`
+``` sh
+wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-stable/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */remove.sh && */remove.sh
 ```
 
-#### [`Latest`](https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip) Ubuntu Setup
+--- -->
 
+### [`Latest`](https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip) Ubuntu Package
+
+‎ ‎ ‎ `Setup`
 ``` sh
-wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup-root.sh && */setup-root.sh
+wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup.sh && */setup.sh
+```
+‎ ‎ ‎ `Remove`
+``` sh
+wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/operate-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */remove.sh && */remove.sh
 ```
 
 # [Mack](https://github.com/Lanwoah/Mack)
