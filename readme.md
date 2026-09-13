@@ -4,11 +4,11 @@
 
 ‎ ‎ ‎ `Installation`
 ``` sh
-wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/setup-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup.sh && */setup.sh install
+wget -O setup.tar.gz "https://github.com/Lanwoah/Releases/releases/download/setup-latest/setup.tar.gz" && tar xzf setup.tar.gz && chmod +x */setup.sh && */setup.sh install
 ```
 ‎ ‎ ‎ `Removal`
 ``` sh
-wget -O setup.zip "https://github.com/Lanwoah/Releases/releases/download/setup-latest/Setup.zip" && unzip -o setup.zip -d ./ && chmod +x */setup.sh && */setup.sh remove
+wget -O setup.tar.gz "https://github.com/Lanwoah/Releases/releases/download/setup-latest/setup.tar.gz" && tar xzf setup.tar.gz && chmod +x */setup.sh && */setup.sh remove
 ```
 
 # [Mack](https://github.com/Lanwoah/Mack)
